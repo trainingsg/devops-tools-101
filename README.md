@@ -10,9 +10,9 @@ El curso está estructurado en dos partes, las cuales a su vez están divididas 
 
 La estructura del curso es la siguiente:
 
-<table border="0">
-<tr>
-<td>
+<table style="border: 0px">
+<tr style="border: 0px">
+<td style="border: 0px">
 
 ### Parte I
 
@@ -25,7 +25,7 @@ La estructura del curso es la siguiente:
 | Plataformas de Apoyo             |  4 horas |
 
 </td>
-<td>
+<td style="border: 0px">
 
 ### Parte II
 
