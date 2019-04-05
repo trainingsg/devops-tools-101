@@ -10,7 +10,7 @@ El curso está estructurado en dos partes, las cuales a su vez están divididas 
 
 La estructura del curso es la siguiente:
 
-<table>
+<table border="0">
 <tr>
 <td>
 
