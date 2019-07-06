@@ -18,11 +18,11 @@ La estructura del curso es la siguiente:
 
 | Módulos                          | Duración |
 | -------------------------------- | -------: |
-| Introducción                     |  2 horas |
-| Versionamiento de Código con Git |  4 horas |
-| Docker                           |  4 horas |
-| Programación de Aplicaciones     |  4 horas |
-| Plataformas de Apoyo             |  4 horas |
+| 1.1 Introducción                     |  2 horas |
+| 1.2 Versionamiento de Código con Git |  4 horas |
+| 1.3 Docker                           |  4 horas |
+| 1.4 Programación de Aplicaciones     |  4 horas |
+| 1.5 Plataformas de Apoyo             |  4 horas |
 
 </td>
 <td style="border: 0px">
@@ -31,11 +31,11 @@ La estructura del curso es la siguiente:
 
 | Módulos                      | Duración |
 | ---------------------------- | -------: |
-| Introducción                 |  2 horas |
-| Modelos de Despliegue        |  4 horas |
-| Integración Continua         |  4 horas |
-| Despliegue Continuo          |  4 horas |
-| Orquestación de Contenedores |  4 horas |
+| 2.1 Introducción                 |  2 horas |
+| 2.2 Modelos de Despliegue        |  4 horas |
+| 2.3 Integración Continua         |  4 horas |
+| 2.4 Despliegue Continuo          |  4 horas |
+| 2.5 Orquestación de Contenedores |  4 horas |
 
 </td>
 </tr>
