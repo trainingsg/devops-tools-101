@@ -1,4 +1,4 @@
-# Herramientas DevOps (DevOps 101)
+# Herramientas DevOps (DevOps 101) 
 
 Este repositorio contiene el material de trabajo para los módulos correspondientes al curso devops-tools-101.
 
@@ -7,6 +7,8 @@ Este repositorio contiene el material de trabajo para los módulos correspondien
 DevOps 101 tiene como objetivo mostrar el funcionamiento de las principales herramientas y tecnologías utilizadas para desarrollar, mantener y operar software de manera ágil.
 
 El curso está estructurado en dos partes, las cuales a su vez están divididas en módulos. La primera parte trata acerca de las prácticas relacionadas a desarrollo y prueba de aplicaciones y la segunda a su despliegue y operación.
+
+Canal de Slack: [Devops-101](https://join.slack.com/t/devops-101/shared_invite/enQtNjg4NDI5Mzk3OTU5LTJlYTdjNmNiZjNhOWY3NDNkYWNmZDQzZTQyOWY1OGFmMzM4NjA4ODcwODAyNDk3NGI1ZTEyYzFmMmJjZTQxODY)
 
 La estructura del curso es la siguiente:
 
