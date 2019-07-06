@@ -86,7 +86,7 @@ _Contenido:_
 
 1. Arquitectura de Microservicios
 2. Lenguajes y Stacks de Programación
-3. MEAN Stack
+3. MERN Stack
 4. Proyecto del Curso
 
 ### **Plataformas de Apoyo** 
